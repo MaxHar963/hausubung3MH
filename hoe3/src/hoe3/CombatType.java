@@ -10,5 +10,5 @@ package hoe3;
  * @author Max
  */
 public enum CombatType {
-    
+    MELEE,RANGED,NONE
 }
